@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Eduarda Lira Ananias</h1>
+<h1 align="center">Hello, I'm Eduarda Lira</h1>
 <h3 align="center">I'm starting in the development world</h3>
 
 - 📝 I'm currently learning **Javascript and MYQSL**
