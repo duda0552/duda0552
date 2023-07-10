@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Eduarda Lira</h1>
 <h3 align="center">I'm starting in the development world</h3>
 
-- 📝 I'm currently learning **Javascript and MYQSL**
+- 📝 I'm currently learning **Javascript and MYSQL**
 
 - 🌱 I intend to develop a website about home gardens [Minhas hortinha](https://minha-hortinha--eduardalira.repl.co/)
 
